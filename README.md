@@ -4,32 +4,32 @@ This is the repository which hold all my lab projects related to Artificial inte
 ## Projects from Greatlearning.
 The following projects were done done as part of my AIML course in greatlearning.
 
-### [Vehicle](https://vimalranjeev.github.io/my_work/Greatlearning/Vehicle/Vehicle.html)
+### [Vehicle](https://vimalranjeev.github.io/my_work/Great learning/Vehicle/Vehicle.html)
 * Domain:Object recognition.
 * Aim:- To apply dimensionality reduction technique – PCA and train a model using principle components instead of training the model using just the raw data.
 * Method: Unsupervised learning.
 
-### [Bank Loan](https://vimalranjeev.github.io/my_work/Greatlearning/Bankloan/bank.html)
+### [Bank Loan](https://vimalranjeev.github.io/my_work/Great learning/Bankloan/bank.html)
 * Domain:Banking
 * Aim:- To classification goal is to predict the likelihood of a liability customer buying personal loans.
 * Method:Supervised Learning
 
-### [Concrete Manufacturing](https://vimalranjeev.github.io/my_work/Greatlearning/Concrete/concrete.html)
+### [Concrete Manufacturing](https://vimalranjeev.github.io/my_work/Great learning/Concrete/concrete.html)
 * Domain:Concrete Manufacturing.
 * Aim:- To Model of strength of high performance concrete using Machine Learning.
 * Method:Feature engineering.
 
-### [Parkinson prediction](https://vimalranjeev.github.io/my_work/Greatlearning/Parkinson/parkinsons.html)
+### [Parkinson prediction](https://vimalranjeev.github.io/my_work/Great learning/Parkinson/parkinsons.html)
 * Domain:Healthcare.
 * Aim:-  To classify the patients into the respective labels using the attributes from their voice recordings.
 * Method: Ensemble techniques.
 
-### [Health insurance](https://vimalranjeev.github.io/my_work/Greatlearning/Insurance/insurance.html)
+### [Health insurance](https://vimalranjeev.github.io/my_work/Great learning/Insurance/insurance.html)
 * Domain: Healthcare.
 * Aim:- To see if we can dive deep into this data to find some valuable insights.
 * Method: Applied statistics.
 
-### [Ecommerce](https://vimalranjeev.github.io/my_work/Greatlearning/Ecommerce/Ecommerce.html)
+### [Ecommerce](https://vimalranjeev.github.io/my_work/Great learning/Ecommerce/Ecommerce.html)
 * Domain:Ecommerce.
 * Aim:-To make a recommendation system that recommends at least five(5) new products based on the user's habits.
 * Method: Recoomendation. 
