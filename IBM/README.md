@@ -1,4 +1,4 @@
-![IBM](http://www.pixelstalk.net/wp-content/uploads/2016/11/IBM-Logo-Wallpaper-HD.jpg)
+![IBM](https://www.igyaan.in/wp-content/uploads/2014/11/ibm-logo.jpg)
 
 ## IBM (Coursera) Projects
 
