@@ -1,3 +1,5 @@
+![IBM](http://www.pixelstalk.net/wp-content/uploads/2016/11/IBM-Logo-Wallpaper-HD.jpg)
+
 ## IBM (Coursera) Projects
 
 > These projects where done as part of my IBM machine learning course on Coursera platform.
