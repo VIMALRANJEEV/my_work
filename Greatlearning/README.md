@@ -1,3 +1,4 @@
+![Great Learning](https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_p33qkid5/def_height/317/def_width/1366/version/100011/type/1)
 ## Great learning projects
 
 > These proejects where don as part of pogt graduate diploma course in artificial intelligence and machine learning.
