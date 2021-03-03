@@ -1,1 +1,1 @@
-![Apartments in New york city](https://raw.githubusercontent.com/VIMALRANJEEV/my_work/master/IBM/Airbnb/Images/Share%20of%20room%20types%20in%20different%20neighbourhood.png)
+![Aiebnb](https://www.youtravel.com.au/wp-content/uploads/2017/05/airbnb.jpg)
