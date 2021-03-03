@@ -1,1 +1,1 @@
-![Share of types of post](https://raw.githubusercontent.com/VIMALRANJEEV/my_work/master/IBM/Facebook/Image/Share%20vs%20Tpye.png)
+![Facebook](https://i2.cdn.turner.com/money/dam/assets/160127170152-facebook-earnings-up-780x439.jpg)
