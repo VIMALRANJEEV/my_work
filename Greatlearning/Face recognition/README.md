@@ -16,7 +16,7 @@ Pinterest is an American image sharing and social media service designed to enab
 
 FOUNDERS
 
-Ben Silbermann
-Paul Sciarra
+Ben Silbermann \
+Paul Sciarra \
 Evan Sharp
 
