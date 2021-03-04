@@ -1,4 +1,4 @@
-![AI](https://gallant-dijkstra-175383.netlify.app/images/backgrounds/AIML%20Portfolio.gif)
+![AI](https://gallant-dijkstra-175383.netlify.app/images/backgrounds/cta-background.gif)
 # My work
 This is the repository which hold all my lab projects related to Artificial intelligence and machine learning.
 
