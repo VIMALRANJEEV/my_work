@@ -1,1 +1,1 @@
-![Parkinsons](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/2012/06_2012/parkinsons_brain_stimulation/493x335_parkinsons_brain_stimulation.jpg?resize=400px:*&output-quality=50)
+![Parkinsons](https://gallant-dijkstra-175383.netlify.app/images/projects/Parkinsons.png)
