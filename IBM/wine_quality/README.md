@@ -8,7 +8,7 @@ The two datasets are related to red and white variants of the Portuguese “Vinh
 
 CITATION
 
-Paulo Cortez, University of Minho, Guimarães, Portugal [website](http://www3.dsi.uminho.pt/pcortez/Home.html)
+Paulo Cortez, University of Minho, Guimarães, Portugal [website](http://www3.dsi.uminho.pt/pcortez/Home.html) \
 A. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal
 
 ABOUT VINHO VERDE WINE
