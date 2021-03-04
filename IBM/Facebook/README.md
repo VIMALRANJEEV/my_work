@@ -23,7 +23,7 @@ Facebook can be accessed from devices with Internet connectivity, such as person
 FOUNDERS
 
 Mark zuckerberg \
-Eduardo Saverin 
+Eduardo Saverin \
 Andrew McCollum \
 Dustin Moskovitz \
 Chris Hughes.
