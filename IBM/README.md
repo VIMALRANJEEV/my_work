@@ -6,21 +6,21 @@
 
 ## Content
 
-### Facebook analysis ( Data analysis )
+### [Facebook analysis ( Data analysis )](https://github.com/VIMALRANJEEV/my_work/tree/master/IBM/Facebook)
 
 * The objective of this projects was to do an exploratory data analysis on a facebook dataset obtained from UCI Machine learning repository.
 
 * Skill:- Hypothesis Testing, Data visualisation
 * Tools:- Python, Jupyter notebook, Plotly, seaborn
 
-### Airbnb room cost prediction ( Supervised Learning )
+### [Airbnb room cost prediction ( Supervised Learning )](https://github.com/VIMALRANJEEV/my_work/tree/master/IBM/Airbnb)
 
 * The objective of this project was to predict the cost of airbnb room in New York City using dataset obtained from kaggle. 
 
 * Skill:- Linear Regression, Lasso, Ridge
 * Tools: Python, Google colab, Plotly, Seaborn, Kaggle
 
-### Wine quality classification ( Supervised Learning )
+### [Wine quality classification ( Supervised Learning )](https://github.com/VIMALRANJEEV/my_work/tree/master/IBM/wine_quality)
 
 * The objective of this project was to classify wine to different category using the chemeical feature of wine. The datset was obtained from Kaggle.
 
