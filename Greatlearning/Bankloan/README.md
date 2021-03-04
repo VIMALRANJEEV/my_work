@@ -1,1 +1,1 @@
-![Bank Loan](https://kingofkash.com/wp-content/uploads/2013/04/loans.jpg)
+![Bank Loan](https://gallant-dijkstra-175383.netlify.app/images/projects/bank.png)
