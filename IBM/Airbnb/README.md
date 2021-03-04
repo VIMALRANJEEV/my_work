@@ -12,7 +12,7 @@ Acknowledgements
 
 This public dataset is part of Airbnb, and the original source can be found on this website.
 
-Dgomonov [Kaggle](https://www.kaggle.com/dgomonov)
+Dgomonov ([Kaggle Profile](https://www.kaggle.com/dgomonov))
 
 ABOUT THE COMPANY
 
