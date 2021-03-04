@@ -7,4 +7,4 @@ This is the repository which hold all my lab projects related to Artificial inte
 
 > [IBM (coursera) Projects](https://github.com/VIMALRANJEEV/my_work/tree/master/IBM)
 
-> Codeacademy projects
+> [Codeacademy projects](https://github.com/VIMALRANJEEV/my_work/tree/master/codecademy)
