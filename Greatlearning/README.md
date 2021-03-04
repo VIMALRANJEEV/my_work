@@ -1,5 +1,5 @@
 ![Great learning](https://www.analyticsinsight.net/wp-content/uploads/2019/02/Great-Learning12-1024x682.png)
-## [Great learning projects (University of Taxes,Austin and Great lakes institute management)](https://eportfolio.greatlearning.in/vimal-ranjeev)
+## [Great learning projects (University of Texas,Austin and Great lakes institute management)](https://eportfolio.greatlearning.in/vimal-ranjeev)
 
 > These proejects where don as part of pogt graduate diploma course in artificial intelligence and machine learning from University of Texas,Austin and Great lakes institute of management
 
