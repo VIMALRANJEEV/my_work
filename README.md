@@ -5,6 +5,6 @@ This is the repository which hold all my lab projects related to Artificial inte
 ## Contents
 > [Great learning projects](https://github.com/VIMALRANJEEV/my_work/tree/master/Greatlearning)
 
->IBM (coursera) Projects
+> [IBM (coursera) Projects](https://github.com/VIMALRANJEEV/my_work/tree/master/IBM)
 
 > Codeacademy projects
