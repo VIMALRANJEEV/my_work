@@ -9,4 +9,4 @@ This is the repository which hold all my lab projects related to Artificial inte
 
 > [Codeacademy projects](https://github.com/VIMALRANJEEV/my_work/tree/master/codecademy)
 
-Note: I am also thinking about doing all these projects in Julia programming language
+Note: All these project will be done in Julia Langauge in the future
