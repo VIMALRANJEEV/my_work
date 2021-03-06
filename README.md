@@ -8,3 +8,5 @@ This is the repository which hold all my lab projects related to Artificial inte
 > [IBM (coursera) Projects](https://github.com/VIMALRANJEEV/my_work/tree/master/IBM)
 
 > [Codeacademy projects](https://github.com/VIMALRANJEEV/my_work/tree/master/codecademy)
+
+Note: I am also thinking about doing all these projects in Julia programming language
